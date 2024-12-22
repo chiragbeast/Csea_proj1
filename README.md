@@ -15,8 +15,7 @@ This College Event Management API allows you to manage college events and regist
 - **Express** for the server.
 - **MongoDB** for storing event data and registrations.
 - **MongoDB.Driver** to interact with MongoDB.
-- **FluentValidation** for validating request data.
--**Html CSS JAVSCRIPT** for frontend 
+  
 ## Steps to Run the Project
 1. Clone the Repository:
    ```bash
